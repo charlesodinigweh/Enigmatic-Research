@@ -1,5 +1,4 @@
-# Enigmatic-Research
-Multimodal Document Retrieval and Question Answering using Nomal Embedding and Vector Embedding
+Multimodal Document Retrieval and Question Answering with Gemini & Nomic Embedding
 
 Project Summary
 This project demonstrates how to build a retrieval-augmented generation (RAG) system using Google Gemini's embedding and generation APIs. It extracts text from various file formats (PDFs, Word, Excel, and Images), stores them in a vector database (ChromaDB), generates embeddings using Gemini's text-embedding-004 model, and finally enables question answering using a conversational prompt with Gemini.
